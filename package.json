@@ -1,5 +1,5 @@
 {
-  "name": "e03-gurunt",
+  "name": "e03-grunt",
   "version": "1.0.0",
   "description": "Exercise 03 - Learning the Basics and automation with Grunt",
   "scripts": {
@@ -9,7 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/nodecourses/Grunt.git"
   },
-  "homepage": "https://github.com/nodecourses/Gulp#readme",
+  "homepage": "https://github.com/nodecourses/Grunt#readme",
   "dependencies": {
     "gulp": "^3.9.0"
   }
