@@ -1,0 +1,16 @@
+{
+  "name": "e03-gurunt",
+  "version": "1.0.0",
+  "description": "Exercise 03 - Learning the Basics and automation with Grunt",
+  "scripts": {
+    "install": "npm install -g grunt-cli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodecourses/Grunt.git"
+  },
+  "homepage": "https://github.com/nodecourses/E02-Gulp#readme",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  }
+}
